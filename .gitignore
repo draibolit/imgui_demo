@@ -1,0 +1,6 @@
+build/
+*.vim
+.cache
+temp*
+*.out
+imgui.ini
